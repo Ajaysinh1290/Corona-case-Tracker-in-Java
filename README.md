@@ -5,12 +5,12 @@ In this project I've created covid case cracker using java. you can find any cou
 
 # Youtube Demo
 
-[<img src="ss1.png" />](https://youtu.be/ls-gAx-wsSM)
+[<img src="screenshots/ss1.png" />](https://youtu.be/yxRzKjg-qVA)
 
 # Screenshots
 
-<img src="ss2.png" />
-<img src="ss3.png" />
+<img src="screenshots/ss2.png" />
+<img src="screenshots/ss3.png" />
 
 # Created by
 
